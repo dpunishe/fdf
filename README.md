@@ -1,3 +1,3 @@
 Визуализация алгоритма бразенхейма с изометрическим видом.
-make
-./fdf maps/name.fdf
+1)make
+2)./fdf maps/name.fdf
